@@ -1,0 +1,17 @@
+706	[364, 601, 3847]		10	32		'{'hypothesis-testing': 5, 'nonparametric': 5, 'bootstrap': 5, 'wilcoxon-signed-rank': 5, '': 2, 'regression': 2, 'binomial': 2, 'independence': 2, 'multicollinearity': 2, 'likelihood-ratio': 2}
+715	[2392, 2958, 3681]		7	17		'{'conditional-probability': 6, 'bayesian': 5, 'prior': 2, 'distributions': 1, 'classification': 1, 'matlab': 1, 'normal-distribution': 1}
+716	[1205, 2392, 3136, 3911]		8	15		'{'regression': 3, 'confidence-interval': 2, 'standard-deviation': 2, 'excel': 2, 'self-study': 2, 'mean': 2, 'time-series': 1, 'forecasting': 1}
+720	[364, 601, 3822]		10	24		'{'bootstrap': 6, 'mixed-model': 4, '': 2, 'post-hoc': 2, 'repeated-measures': 2, 'hypothesis-testing': 2, 'nonparametric': 2, 'wilcoxon-signed-rank': 2, 'ancova': 1, 'anova': 1}
+723	[1356, 2392, 3911]		7	15		'{'correlation': 3, 'categorical-data': 3, 'contingency-tables': 3, 'association-measure': 3, 'r': 1, 'nonparametric': 1, 'kruskal-wallis': 1}
+724	[1098, 1291, 2392, 3681, 3911]		6	13		'{'multiple-comparisons': 3, 'survival': 3, 'bayesian': 3, 'prior': 2, 'distributions': 1, 'conditional-probability': 1}
+725	[1098, 2392, 2729, 3681, 3911]		7	16		'{'mixed-model': 3, 'normal-distribution': 3, 'maximum-likelihood': 3, 'bayesian': 3, 'prior': 2, 'distributions': 1, 'conditional-probability': 1}
+726	[2392, 2750, 3019]		9	21		'{'variance': 5, 'hypothesis-testing': 4, 'mean': 3, '': 2, 'clinical-trials': 2, 'bias': 2, 'central-limit-theorem': 1, 'standard-deviation': 1, 'tables': 1}
+727	[1098, 2392, 3681, 3911]		7	19		'{'machine-learning': 4, 'time-series': 4, 'clustering': 4, 'bayesian': 3, 'prior': 2, 'distributions': 1, 'conditional-probability': 1}
+728	[919, 2958, 3681, 3856, 4013]		5	9		'{'valuation': 3, 'conditional-probability': 3, 'normal-distribution': 1, 'population': 1, 'bayesian': 1}
+730	[919, 2958, 3681, 3856]		6	14		'{'data-visualization': 4, 'references': 4, 'conditional-probability': 3, 'normal-distribution': 1, 'population': 1, 'bayesian': 1}
+731	[2392, 3681, 3911]		4	13		'{'conditional-probability': 9, 'bayesian': 2, 'distributions': 1, 'prior': 1}
+732	[3309, 3827, 3911]		6	14		'{'r': 4, 'regression': 2, 'link-function': 2, 'gee': 2, 'data-visualization': 2, 'correlation': 2}
+734	[449, 930, 3454, 3903]		5	10		'{'anova': 3, 'experiment-design': 3, 'normality-assumption': 2, 'standard-deviation': 1, 'standard-error': 1}
+735	[919, 2820, 3014]		5	10		'{'': 2, 'clustering': 2, 'algorithms': 2, 'distributions': 2, 'histogram': 2}
+736	[919, 1709, 3903]		7	10		'{'experiment-design': 3, 'anova': 2, '': 1, 'hypothesis-testing': 1, 'granger-causality': 1, 'r': 1, 'genetics': 1}
+737	[919, 2040, 4028]		6	19		'{'r': 6, 'hypothesis-testing': 3, 'clustering': 3, 'multiple-comparisons': 3, 'binary-data': 3, '': 1}

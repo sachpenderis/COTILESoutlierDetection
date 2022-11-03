@@ -1,0 +1,10 @@
+630	[449, 1381, 3347]		11	16		'{'terminology': 3, 'bayesian': 2, 'prior': 2, '': 2, 'probability': 1, 'joint-distribution': 1, 'definition': 1, 'dataset': 1, 'meta-analysis': 1, 'quality-control': 1, 'database': 1}
+637	[364, 1118, 3396]		4	7		'{'confidence-interval': 2, 'bootstrap': 2, 'r': 2, '': 1}
+638	[2392, 2958, 3456]		5	9		'{'bayesian': 3, 'normal-distribution': 3, 'regression': 1, 'estimation': 1, 'errors-in-variables': 1}
+648	[795, 919, 3342]		8	21		'{'distributions': 5, 'chi-squared': 4, 'goodness-of-fit': 4, 'uniform': 4, '': 1, 'median': 1, 'non-central': 1, 't-distribution': 1}
+649	[919, 1347, 1393]		9	19		'{'': 3, 'data-visualization': 2, 'histogram': 2, 'pdf': 2, 'binning': 2, 'estimation': 2, 'maximum-likelihood': 2, 'econometrics': 2, 'asymptotics': 2}
+651	[795, 919, 1720]		6	10		'{'': 3, 'hypothesis-testing': 3, 'distributions': 1, 'median': 1, 'non-central': 1, 't-distribution': 1}
+653	[919, 2817, 3432]		9	15		'{'r': 4, 'clustering': 2, 'classification': 2, 'psychometrics': 2, 'data-visualization': 1, 'roc': 1, 'dataset': 1, 'aggregation': 1, 'plyr': 1}
+654	[919, 1261, 3551]		5	7		'{'classification': 3, 'r': 1, 'data-mining': 1, 'random-generation': 1, 'text-mining': 1}
+656	[919, 1347, 3026, 3489]		9	29		'{'data-visualization': 4, 'histogram': 4, 'pdf': 4, 'binning': 4, 'regression': 3, 'machine-learning': 3, 'multivariate-analysis': 3, 'large-data': 3, '': 1}
+657	[919, 1347, 3026]		9	33		'{'regression': 5, 'machine-learning': 5, 'multivariate-analysis': 5, 'large-data': 5, 'data-visualization': 3, 'histogram': 3, 'pdf': 3, 'binning': 3, '': 1}
